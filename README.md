@@ -1,5 +1,5 @@
 # 💫 About Me:
-FULL STACK DEVELOPER
+I am a passionate Full-Stack Developer currently in my final semester of BCA. I specialize in building scalable web applications using the MERN stack, JavaScript, and PostgreSQL. With hands-on experience from a 3-month web development internship, I enjoy solving complex problems and turning ideas into functional digital products like Labour Hub and localized social platforms
 
 
 ## 🌐 Socials:
