@@ -228,7 +228,7 @@ I am a passionate **Full-Stack Developer** currently in my final semester of **B
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-kumar-maurya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Priyanshu-kumar-maurya&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -236,15 +236,7 @@ I am a passionate **Full-Stack Developer** currently in my final semester of **B
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-kumar-maurya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-kumar-maurya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Priyanshu-kumar-maurya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
