@@ -29,14 +29,13 @@
 
 <div align="center">
 
-### 🌐 Direct Connect & Social Links
+### 🌐 Direct Connect & Professional Links
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917232992082)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-maurya-808718281/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codexs_priyanshu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-kumar-maurya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-247BFF?style=for-the-badge&logo=firefox&logoColor=white)](https://priyanshu-kumar-maurya.github.io/Bio/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codexpriyanshu65@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-maurya/)
 
 </div>
 
@@ -54,6 +53,36 @@
 | **🍽️ SmartQR Dine** | `React`, `Node.js`, `Express`, `PostgreSQL`, `WebSockets` | Contactless QR-code restaurant ordering portal enabling instant table scans, live kitchen order display, and dynamic bill settlement. | [Live Demo](https://priyanshu-kumar-maurya.github.io/Hotel-QR-Project/) • [Code](https://github.com/Priyanshu-kumar-maurya/Hotel-QR-Project) |
 | **📚 LibraryPro** | `Node.js`, `Express`, `PostgreSQL`, `EJS`, `Tailwind CSS` | Digital university library system with automated book barcode issuing, overdue fines calculation, and role-based student/librarian panels. | [GitHub Repo](https://github.com/Priyanshu-kumar-maurya/library-project) |
 | **🏎️ BMW 3D Studio** | `Three.js`, `WebGL`, `HTML5`, `CSS3 Canvas` | Interactive 3D automotive showroom with real-time lighting, paint customizer, interior inspection, and responsive 3D model controls. | [Live Showcase](https://priyanshu-kumar-maurya.github.io/Bio/) |
+
+<br/>
+
+---
+
+## 📊 Live GitHub Activity, Commits & Visitor Stats
+
+<div align="center">
+
+  <!-- Live Profile Visitors Counter Badge -->
+  <a href="https://github.com/Priyanshu-kumar-maurya">
+    <img src="https://komarev.com/ghpvc/?username=Priyanshu-kumar-maurya&label=PROFILE%20VIEWS%20%F0%9F%91%81%EF%B8%8F&color=247bff&style=for-the-badge" alt="Live Profile Views" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Streak Stats (Commits Streak, Total Commits) -->
+  <a href="https://github.com/Priyanshu-kumar-maurya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-kumar-maurya&theme=tokyonight&border=247bff&background=0d1527&stroke=247bff&ring=ff354f&fire=ff354f&currStreakLabel=247bff" alt="GitHub Commits & Streak Stats" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Side-by-side Overall Activity & Top Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-kumar-maurya&show_icons=true&theme=tokyonight&border_color=247bff&bg_color=0d1527&title_color=f8fafc&text_color=94a3b8&icon_color=247bff" alt="Priyanshu GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-kumar-maurya&layout=compact&theme=tokyonight&border_color=247bff&bg_color=0d1527&title_color=f8fafc&text_color=94a3b8" alt="Top Languages" width="48%" />
+  </p>
+
+</div>
 
 <br/>
 
