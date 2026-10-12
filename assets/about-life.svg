@@ -94,68 +94,68 @@
 
   <!-- ================= LEFT COLUMN: CAPABILITIES ================= -->
   <g id="about-capabilities-card" transform="translate(45, 88)">
-    <rect width="385" height="295" rx="14" fill="#0d1527" stroke="#247bff" stroke-width="1" stroke-opacity="0.3"/>
+    <rect width="395" height="295" rx="14" fill="#0d1527" stroke="#247bff" stroke-width="1" stroke-opacity="0.3"/>
     
     <!-- Header -->
     <g transform="translate(20, 24)">
       <text class="about-mono" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1">CORE ENGINEERING DOMAINS</text>
-      <rect x="235" y="-12" width="110" height="20" rx="5" fill="#247bff" fill-opacity="0.15"/>
-      <text x="290" y="1" text-anchor="middle" class="about-mono" font-size="9.5" font-weight="700" fill="#60a5fa">BCA '26 • INTERN</text>
+      <rect x="245" y="-12" width="110" height="20" rx="5" fill="#247bff" fill-opacity="0.15"/>
+      <text x="300" y="1" text-anchor="middle" class="about-mono" font-size="9.5" font-weight="700" fill="#60a5fa">BCA '26 • INTERN</text>
     </g>
 
     <!-- Capability 1 -->
     <g transform="translate(20, 52)">
       <circle cx="6" cy="10" r="4" fill="#61dafb"/>
-      <text x="18" y="14" class="about-display" font-size="14" font-weight="700" fill="#f8fafc">Full-Stack Architecture (React, Node &amp; Express)</text>
-      <text x="18" y="29" class="about-mono" font-size="10.5" fill="#94a3b8">MERN Stack • Modular Components • Tailwind • REST APIs</text>
+      <text x="18" y="14" class="about-display" font-size="13.5" font-weight="700" fill="#f8fafc">Full-Stack Architecture (React &amp; Node)</text>
+      <text x="18" y="29" class="about-mono" font-size="9.8" fill="#94a3b8">MERN Stack • Modular UI • REST APIs • Tailwind</text>
     </g>
 
     <!-- Capability 2 -->
     <g transform="translate(20, 108)">
       <circle cx="6" cy="10" r="4" fill="#38bdf8"/>
-      <text x="18" y="14" class="about-display" font-size="14" font-weight="700" fill="#f8fafc">Real-Time Communication (Socket.io &amp; WebRTC)</text>
-      <text x="18" y="29" class="about-mono" font-size="10.5" fill="#94a3b8">1v1 Voice &amp; Video • Typing Battles • Live Location SOS • Chat</text>
+      <text x="18" y="14" class="about-display" font-size="13.5" font-weight="700" fill="#f8fafc">Real-Time Systems (Socket.io &amp; WebRTC)</text>
+      <text x="18" y="29" class="about-mono" font-size="9.8" fill="#94a3b8">Voice &amp; Video P2P • Live SOS GPS • Typing Battles</text>
     </g>
 
     <!-- Capability 3 -->
     <g transform="translate(20, 164)">
       <circle cx="6" cy="10" r="4" fill="#ff354f"/>
-      <text x="18" y="14" class="about-display" font-size="14" font-weight="700" fill="#f8fafc">Databases &amp; Cloud Storage (PostgreSQL, MongoDB)</text>
-      <text x="18" y="29" class="about-mono" font-size="10.5" fill="#94a3b8">Relational Schemas • Document Stores • Cloudinary • Auth/JWT</text>
+      <text x="18" y="14" class="about-display" font-size="13.5" font-weight="700" fill="#f8fafc">Databases &amp; Cloud (Postgres &amp; MongoDB)</text>
+      <text x="18" y="29" class="about-mono" font-size="9.8" fill="#94a3b8">Relational Schemas • Document Stores • Cloudinary • JWT</text>
     </g>
 
     <!-- Capability 4 -->
     <g transform="translate(20, 220)">
       <circle cx="6" cy="10" r="4" fill="#a78bfa"/>
-      <text x="18" y="14" class="about-display" font-size="14" font-weight="700" fill="#f8fafc">Interactive Game Engines &amp; Performance</text>
-      <text x="18" y="29" class="about-mono" font-size="10.5" fill="#94a3b8">Vanilla JS Engines • Responsive Web • PWA • Audio/Visuals</text>
+      <text x="18" y="14" class="about-display" font-size="13.5" font-weight="700" fill="#f8fafc">Interactive Engines &amp; Performance</text>
+      <text x="18" y="29" class="about-mono" font-size="9.8" fill="#94a3b8">Vanilla JS Canvas • Web Audio • PWA • Fluid UI</text>
     </g>
   </g>
 
   <!-- ================= RIGHT COLUMN: INTERESTS CAROUSEL ================= -->
-  <g id="about-carousel-card" transform="translate(450, 88)">
-    <rect width="405" height="295" rx="14" fill="#0d1527" stroke="#ff354f" stroke-width="1" stroke-opacity="0.3"/>
+  <g id="about-carousel-card" transform="translate(460, 88)">
+    <rect width="395" height="295" rx="14" fill="#0d1527" stroke="#ff354f" stroke-width="1" stroke-opacity="0.3"/>
 
     <!-- Header & Segment Progress Bars -->
-    <g transform="translate(25, 24)">
+    <g transform="translate(22, 24)">
       <text x="0" y="10" class="about-mono" font-size="11" font-weight="700" fill="#ff354f" letter-spacing="1">INTERESTS CAROUSEL</text>
-      <text x="355" y="10" text-anchor="end" class="about-mono" font-size="10.5" font-weight="600" fill="#94a3b8">4s / SLIDE</text>
+      <text x="351" y="10" text-anchor="end" class="about-mono" font-size="10.5" font-weight="600" fill="#94a3b8">4s / SLIDE</text>
 
       <!-- 3 Progress Segments -->
       <g transform="translate(0, 24)">
         <rect x="0" y="0" width="105" height="4" rx="2" fill="#1e293b"/>
         <rect x="0" y="0" width="105" height="4" rx="2" fill="#247bff" class="about-bar-1"/>
         
-        <rect x="125" y="0" width="105" height="4" rx="2" fill="#1e293b"/>
-        <rect x="125" y="0" width="105" height="4" rx="2" fill="#ff354f" class="about-bar-2"/>
+        <rect x="123" y="0" width="105" height="4" rx="2" fill="#1e293b"/>
+        <rect x="123" y="0" width="105" height="4" rx="2" fill="#ff354f" class="about-bar-2"/>
         
-        <rect x="250" y="0" width="105" height="4" rx="2" fill="#1e293b"/>
-        <rect x="250" y="0" width="105" height="4" rx="2" fill="#38bdf8" class="about-bar-3"/>
+        <rect x="246" y="0" width="105" height="4" rx="2" fill="#1e293b"/>
+        <rect x="246" y="0" width="105" height="4" rx="2" fill="#38bdf8" class="about-bar-3"/>
       </g>
     </g>
 
     <!-- Slide 1: UI/UX Prototyping & Glassmorphism -->
-    <g transform="translate(25, 76)">
+    <g transform="translate(22, 76)">
       <g id="about-slide-1" class="about-slide-item-1" opacity="1">
         <rect x="0" y="0" width="135" height="20" rx="4" fill="#247bff" fill-opacity="0.18"/>
         <text x="67.5" y="14" text-anchor="middle" class="about-mono" font-size="9.5" font-weight="700" fill="#60a5fa">01 / 03   PROTOTYPING</text>
@@ -163,30 +163,30 @@
         <text x="0" y="44" class="about-display" font-size="20" font-weight="800" fill="#f8fafc">UI/UX Prototyping</text>
         <text x="0" y="64" class="about-mono" font-size="11.5" font-weight="600" fill="#38bdf8">Design Systems &amp; Motion Architecture</text>
         
-        <text class="about-display" font-size="13" font-weight="400" fill="#94a3b8">
-          <tspan x="0" y="92">Crafting intuitive, responsive interfaces with ultra-clean aesthetic,</tspan>
-          <tspan x="0" y="112">glassmorphic surfaces, and responsive micro-interactions.</tspan>
+        <text class="about-display" font-size="12.5" font-weight="400" fill="#94a3b8">
+          <tspan x="0" y="90">Crafting intuitive, responsive interfaces with clean aesthetics,</tspan>
+          <tspan x="0" y="110">glassmorphic design systems, and fluid micro-interactions.</tspan>
         </text>
 
         <!-- Tags -->
-        <g transform="translate(0, 150)">
-          <rect x="0" y="0" width="60" height="22" rx="4" fill="#1e293b"/>
-          <text x="30" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Figma</text>
+        <g transform="translate(0, 148)">
+          <rect x="0" y="0" width="56" height="22" rx="4" fill="#1e293b"/>
+          <text x="28" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Figma</text>
 
-          <rect x="68" y="0" width="95" height="22" rx="4" fill="#1e293b"/>
-          <text x="115.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Tailwind CSS</text>
+          <rect x="62" y="0" width="92" height="22" rx="4" fill="#1e293b"/>
+          <text x="108" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Tailwind CSS</text>
 
-          <rect x="171" y="0" width="80" height="22" rx="4" fill="#1e293b"/>
-          <text x="211" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Motion UX</text>
+          <rect x="160" y="0" width="78" height="22" rx="4" fill="#1e293b"/>
+          <text x="199" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Motion UX</text>
 
-          <rect x="259" y="0" width="95" height="22" rx="4" fill="#1e293b"/>
-          <text x="306.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Responsive</text>
+          <rect x="244" y="0" width="92" height="22" rx="4" fill="#1e293b"/>
+          <text x="290" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Responsive</text>
         </g>
       </g>
     </g>
 
     <!-- Slide 2: Real-Time Multiplayer & WebSockets -->
-    <g transform="translate(25, 76)">
+    <g transform="translate(22, 76)">
       <g id="about-slide-2" class="about-slide-item-2" opacity="0">
         <rect x="0" y="0" width="135" height="20" rx="4" fill="#ff354f" fill-opacity="0.18"/>
         <text x="67.5" y="14" text-anchor="middle" class="about-mono" font-size="9.5" font-weight="700" fill="#fb7185">02 / 03   REAL-TIME</text>
@@ -194,30 +194,30 @@
         <text x="0" y="44" class="about-display" font-size="20" font-weight="800" fill="#f8fafc">Multiplayer &amp; Voice P2P</text>
         <text x="0" y="64" class="about-mono" font-size="11.5" font-weight="600" fill="#fb7185">WebRTC Mesh &amp; Socket.io Protocol</text>
         
-        <text class="about-display" font-size="13" font-weight="400" fill="#94a3b8">
-          <tspan x="0" y="92">Architecting low-latency live interactions — from 1v1 typing fight</tspan>
-          <tspan x="0" y="112">arenas to WebSockets chat rooms and P2P voice channels.</tspan>
+        <text class="about-display" font-size="12.5" font-weight="400" fill="#94a3b8">
+          <tspan x="0" y="90">Architecting low-latency live interactions — from 1v1 typing</tspan>
+          <tspan x="0" y="110">battle arenas to real-time chat rooms and P2P voice channels.</tspan>
         </text>
 
         <!-- Tags -->
-        <g transform="translate(0, 150)">
-          <rect x="0" y="0" width="75" height="22" rx="4" fill="#1e293b"/>
-          <text x="37.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Socket.io</text>
+        <g transform="translate(0, 148)">
+          <rect x="0" y="0" width="72" height="22" rx="4" fill="#1e293b"/>
+          <text x="36" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Socket.io</text>
 
-          <rect x="83" y="0" width="75" height="22" rx="4" fill="#1e293b"/>
-          <text x="120.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">WebRTC</text>
+          <rect x="78" y="0" width="72" height="22" rx="4" fill="#1e293b"/>
+          <text x="114" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">WebRTC</text>
 
-          <rect x="166" y="0" width="85" height="22" rx="4" fill="#1e293b"/>
-          <text x="208.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">P2P Audio</text>
+          <rect x="156" y="0" width="82" height="22" rx="4" fill="#1e293b"/>
+          <text x="197" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">P2P Audio</text>
 
-          <rect x="259" y="0" width="95" height="22" rx="4" fill="#1e293b"/>
-          <text x="306.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Game Logic</text>
+          <rect x="244" y="0" width="92" height="22" rx="4" fill="#1e293b"/>
+          <text x="290" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Game Logic</text>
         </g>
       </g>
     </g>
 
     <!-- Slide 3: Coffee Rituals & Companion Apps -->
-    <g transform="translate(25, 76)">
+    <g transform="translate(22, 76)">
       <g id="about-slide-3" class="about-slide-item-3" opacity="0">
         <rect x="0" y="0" width="135" height="20" rx="4" fill="#38bdf8" fill-opacity="0.18"/>
         <text x="67.5" y="14" text-anchor="middle" class="about-mono" font-size="9.5" font-weight="700" fill="#38bdf8">03 / 03   COMPANION</text>
@@ -225,24 +225,24 @@
         <text x="0" y="44" class="about-display" font-size="20" font-weight="800" fill="#f8fafc">Coffee &amp; Social Dating</text>
         <text x="0" y="64" class="about-mono" font-size="11.5" font-weight="600" fill="#38bdf8">Community Platforms &amp; Safety Tech</text>
         
-        <text class="about-display" font-size="13" font-weight="400" fill="#94a3b8">
-          <tspan x="0" y="92">Connecting people over coffee and real-world activities through</tspan>
-          <tspan x="0" y="112">Coffeely companion platform with SOS emergency GPS security.</tspan>
+        <text class="about-display" font-size="12.5" font-weight="400" fill="#94a3b8">
+          <tspan x="0" y="90">Connecting people over coffee and real-world meetups via</tspan>
+          <tspan x="0" y="110">Coffeely companion platform with SOS emergency GPS tracking.</tspan>
         </text>
 
         <!-- Tags -->
-        <g transform="translate(0, 150)">
-          <rect x="0" y="0" width="70" height="22" rx="4" fill="#1e293b"/>
-          <text x="35" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Coffeely</text>
+        <g transform="translate(0, 148)">
+          <rect x="0" y="0" width="68" height="22" rx="4" fill="#1e293b"/>
+          <text x="34" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Coffeely</text>
 
-          <rect x="78" y="0" width="115" height="22" rx="4" fill="#1e293b"/>
-          <text x="135.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Social Discovery</text>
+          <rect x="74" y="0" width="110" height="22" rx="4" fill="#1e293b"/>
+          <text x="129" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Social Discovery</text>
 
-          <rect x="201" y="0" width="65" height="22" rx="4" fill="#1e293b"/>
-          <text x="233.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">GPS SOS</text>
+          <rect x="190" y="0" width="65" height="22" rx="4" fill="#1e293b"/>
+          <text x="222.5" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">GPS SOS</text>
 
-          <rect x="274" y="0" width="80" height="22" rx="4" fill="#1e293b"/>
-          <text x="314" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Dates UX</text>
+          <rect x="261" y="0" width="76" height="22" rx="4" fill="#1e293b"/>
+          <text x="299" y="15" text-anchor="middle" class="about-mono" font-size="10" fill="#cbd5e1">Dates UX</text>
         </g>
       </g>
     </g>
